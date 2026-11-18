@@ -1,0 +1,8 @@
+.cache/
+.DS_Store
+build/
+.next/
+*.tgz
+*.log
+.env
+.pnpm-store/
